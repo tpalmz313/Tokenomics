@@ -236,12 +236,7 @@ You can also record your interactions with the executed contract as a short vide
 
 ---
 
-## Submission
-
-* Upload the files for this assignment to your GitHub repository.
-
-* Submit the link to your GitHub repo on Bootcamp Spot.
-
+## SCREEN SHOTS IN IMAGES FOLDER
 ---
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
